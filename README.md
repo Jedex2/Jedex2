@@ -9,7 +9,7 @@
         body {
             margin: 0;
             padding: 0;
-            background: url('[your-gif-link.gif](https://pin.it/1skIURk)') center/cover no-repeat fixed;
+            background: url('Chi typing on a computer - Chi's Sweet Home _ Chi's New Address Photo (37597964) - Fanpop-page-1.gif') center/cover no-repeat fixed;
             font-family: 'Arial', sans-serif;
             color: white; /* Change text color to match your GIF */
             text-align: center;
