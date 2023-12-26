@@ -8,37 +8,7 @@
 
 <h3 align="center" style="font-size: 200px; color: #FFA500;">newbie three point o</h3>
 
-####
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <style>
-    h3 {
-      font-size: 24px;
-      color: orange;
-      animation: moveText 2s infinite alternate;
-    }
-
-    @keyframes moveText {
-      0% { transform: translateY(0); }
-      50% { transform: translateY(-20px); } /* move up by 20 pixels */
-      100% { transform: translateY(0); }
-    }
-  </style>
-</head>
-<body>
-
-  <h3 align="center">Newbie Three Point O</h3>
-
-</body>
-</html>
-
-
-
-####
+[![Devicons](https://d2fltix0v2e0sb.cloudfront.net/devicon/{language_slug}/devicon.png)](https://github.com/devicons/devicon)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jedex2&label=Profile%20views&color=ff144f&style=flat" alt="jedex2" /> </p>
 
