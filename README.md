@@ -1,6 +1,6 @@
 
+<h1 align="center" style="font-size: 200px; color: #FFA500;">Hi 👋, I'm Jedex♨</h1>
 
-<h1 align="center">Hi 👋, I'm Jedex♨</h1>
 
 <div align="center">
   <img src="https://i.pinimg.com/originals/52/29/40/5229407d4cd3ac735c96abc7a8a78458.gif" alt="IMG_8072_Original">
