@@ -1,7 +1,8 @@
 
-<h1 align="center">Hi 👋, I'm Jedex♨</h1>
-![Alt Text](https://i.pinimg.com/originals/c3/16/27/c3162775635d404d6462187ea4b5941f.gif)
 
+<h1 align="center">Hi 👋, I'm Jedex♨</h1>
+
+![IMG_8072_Original](https://i.pinimg.com/originals/52/29/40/5229407d4cd3ac735c96abc7a8a78458.gif)
 
 <h3 align="center">newbie three point o</h3>
 
