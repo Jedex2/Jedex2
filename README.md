@@ -1,67 +1,14 @@
-<!DOCTYPE html>
-<html lang="en">
+<h1 align="center">Hi 👋, I'm Jedex♨</h1>
+<h3 align="center">newbie three point o</h3>
 
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Your Page Title</title>
-  <style>
-    body {
-      background-color: #282c36;
-      color: #ffffff;
-      font-family: 'Arial', sans-serif;
-      text-align: center;
-      padding: 50px;
-    }
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jedex2&label=Profile%20views&color=ff144f&style=flat" alt="jedex2" /> </p>
 
-    h1 {
-      color: #61dafb;
-      font-size: 2em;
-    }
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/jjksy__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jjksy__" height="30" width="40" /></a>
+</p>
 
-    h3 {
-      color: #61dafb;
-      font-size: 1.5em;
-    }
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-    p {
-      font-size: 1em;
-    }
-
-    img {
-      border-radius: 50%;
-    }
-  </style>
-</head>
-
-<body>
-
-  <h1>Hi 👋, I'm Jedex♨</h1>
-  <h3>newbie three point o</h3>
-
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=jedex2&label=Profile%20views&color=ff144f&style=flat" alt="jedex2" />
-  </p>
-
-  <h3>Connect with me:</h3>
-  <p>
-    <a href="https://instagram.com/jjksy__" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jjksy__" height="30" width="40" /></a>
-  </p>
-
-  <h3>Languages and Tools:</h3>
-  <p>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-    </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-    </a>
-  </p>
-
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=jedex2&show_icons=true&theme=tokyonight&title_color=832525&locale=en" alt="jedex2" />
-  </p>
-
-</body>
-
-</html>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jedex2&show_icons=true&theme=tokyonight&title_color=832525&locale=en" alt="jedex2" /></p>
