@@ -8,7 +8,9 @@
 
 <h3 align="center" style="font-size: 200px; color: #FFA500;">newbie three point o</h3>
 
-[![Devicons](https://d2fltix0v2e0sb.cloudfront.net/devicon/{language_slug}/devicon.png)](https://github.com/devicons/devicon)
+[![Spotify](https://novatorem-ten-phi.vercel.app/api/spotify)](https://open.spotify.com/user/{Jirawadeeprabnarong})
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jedex2&label=Profile%20views&color=ff144f&style=flat" alt="jedex2" /> </p>
 
