@@ -16,16 +16,16 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <style>
-    @keyframes moveText {
-      0% { transform: translateX(0); }
-      50% { transform: translateX(100px); }
-      100% { transform: translateX(0); }
-    }
-
     h3 {
       font-size: 24px;
       color: orange;
-      animation: moveText 2s infinite; /* 2s is the duration, infinite means it will repeat indefinitely */
+      animation: moveText 2s infinite alternate;
+    }
+
+    @keyframes moveText {
+      0% { transform: translateY(0); }
+      50% { transform: translateY(-20px); } /* move up by 20 pixels */
+      100% { transform: translateY(0); }
     }
   </style>
 </head>
@@ -35,6 +35,7 @@
 
 </body>
 </html>
+
 
 
 ####
