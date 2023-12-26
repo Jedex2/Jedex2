@@ -6,7 +6,8 @@
   <img src="https://i.pinimg.com/originals/52/29/40/5229407d4cd3ac735c96abc7a8a78458.gif" alt="IMG_8072_Original">
 </div>
 
-<h3 align="center" style="font-size: 200px; color: orange;">newbie three point o</h3>
+<h3 align="center" style="font-size: 200px; color: #FFA500;">newbie three point o</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jedex2&label=Profile%20views&color=ff144f&style=flat" alt="jedex2" /> </p>
 
