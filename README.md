@@ -10,7 +10,7 @@
 
 #######
 
-[![Spotify](https://novatorem-ten-phi.vercel.app/api/spotify)(https://open.spotify.com/user/2hxo0m48v8lqcoipezmddcsav)
+
 
 
 ######
