@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Jedex♨</h1>
-![IMG_8072_Original](https://i.pinimg.com/564x/ce/e6/34/cee634e06b79e68f66177110db136d24.jpg)
+![IMG_8072_Original](https://i.pinimg.com/originals/17/ef/97/17ef974f6c0c500b8e2e1e683ecea8f5.gif)
 <h3 align="center">newbie three point o</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jedex2&label=Profile%20views&color=ff144f&style=flat" alt="jedex2" /> </p>
