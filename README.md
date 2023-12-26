@@ -7,7 +7,7 @@
 </head>
 <body style="background-color: #1a1a1a; color: #00ff00; font-family: 'Courier New', monospace;">
 
-<img src="https://pin.it/4qPAQOE" alt="Cyberpunk Image" style="width: 100%; height: auto; object-fit: cover;">
+<img src="[https://pin.it/4qPAQOE](https://i.pinimg.com/564x/ce/e6/34/cee634e06b79e68f66177110db136d24.jpg)" alt="Cyberpunk Image" style="width: 100%; height: auto; object-fit: cover;">
 
 <h1 align="center" style="margin-top: -50px;">🌐 Hi there, I'm Jedex ♨</h1>
 <h3 align="center">Newbie 3.0 | Cyberpunk Enthusiast</h3>
