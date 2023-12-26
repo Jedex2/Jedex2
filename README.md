@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Jedex♨</h1>
 
-<div align="right">
+<div style="float: right;">
   <img src="https://i.pinimg.com/originals/52/29/40/5229407d4cd3ac735c96abc7a8a78458.gif" alt="IMG_8072_Original">
 </div>
 
