@@ -10,18 +10,8 @@
       background-color: #282c36;
       color: #ffffff;
       font-family: 'Arial', sans-serif;
-      margin: 0;
-      padding: 0;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      justify-content: center;
-      height: 100vh;
-    }
-
-    h1, h3, p {
-      margin: 0;
       text-align: center;
+      padding: 50px;
     }
 
     h1 {
