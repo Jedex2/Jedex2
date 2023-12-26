@@ -7,7 +7,36 @@
 </div>
 
 <h3 align="center" style="font-size: 200px; color: #FFA500;">newbie three point o</h3>
+####
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    @keyframes moveText {
+      0% { transform: translateX(0); }
+      50% { transform: translateX(100px); }
+      100% { transform: translateX(0); }
+    }
+
+    h3 {
+      font-size: 24px;
+      color: orange;
+      animation: moveText 2s infinite; /* 2s is the duration, infinite means it will repeat indefinitely */
+    }
+  </style>
+</head>
+<body>
+
+  <h3 align="center">Newbie Three Point O</h3>
+
+</body>
+</html>
+
+
+####
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jedex2&label=Profile%20views&color=ff144f&style=flat" alt="jedex2" /> </p>
 
