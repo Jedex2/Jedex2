@@ -2,7 +2,9 @@
 
 <h1 align="center">Hi 👋, I'm Jedex♨</h1>
 
-![IMG_8072_Original](https://i.pinimg.com/originals/52/29/40/5229407d4cd3ac735c96abc7a8a78458.gif)
+<div align="right">
+  <img src="https://i.pinimg.com/originals/52/29/40/5229407d4cd3ac735c96abc7a8a78458.gif" alt="IMG_8072_Original">
+</div>
 
 <h3 align="center">newbie three point o</h3>
 
