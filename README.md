@@ -5,9 +5,11 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Jedex's Cyberpunk Profile</title>
 </head>
-<body style="background-color: #111111; color: #00ff00; font-family: 'Courier New', monospace;">
+<body style="background-color: #1a1a1a; color: #00ff00; font-family: 'Courier New', monospace;">
 
-<h1 align="center">🌐 Hi there, I'm Jedex ♨</h1>
+<img src="[https://your-image-url.com/cyberpunk-image.jpg](https://pin.it/4qPAQOE)" alt="Cyberpunk Image" style="width: 100%; height: auto; object-fit: cover;">
+
+<h1 align="center" style="margin-top: -50px;">🌐 Hi there, I'm Jedex ♨</h1>
 <h3 align="center">Newbie 3.0 | Cyberpunk Enthusiast</h3>
 
 <p align="left">
