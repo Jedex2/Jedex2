@@ -1,5 +1,15 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/build-World-bright?style=plastic&logo=apachecassandra&logoColor=red&logoSize=amd&label=JEDEX&labelColor=black&color=red&cacheSeconds=5000" alt="Static Badge" width="300">
+</p>
 
-<h1 align="center" style="font-size: 200px; color: #FFA500;">Hi 👋, I'm Jedex♨</h1>
+
+
+
+
+
+
+
+
 
 
 <div align="center">
